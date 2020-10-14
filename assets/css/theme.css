@@ -1,0 +1,57 @@
+@media (prefers-color-scheme: light) {
+  :root[data-theme="light"] {
+    --background-color: #fff !important;
+    --primary-foreground-color: #4a4a4a !important;
+    --secondary-foreground-color: #000 !important;
+    --primary-subtle-color: #008080 !important;
+    --secondary-subtle-color: #f4f8fd !important;
+    --titles-color: #333 !important;
+    --link-color: #133467 !important;
+    --border-color: #008080 !important;
+    --primary-border-color: #9b9b9b !important;
+    --secondary-border-color: #f0f8ff !important;
+    --article-shadow-normal: 0 10px 10px rgba(0, 0, 0, 0.08) !important;
+    --article-shadow-hover: 0 4px 60px 0 rgba(0, 0, 0, 0.2) !important;
+    --transparent-background-color: hsla(0, 0%, 100%, 0.99) !important;
+    --footer-background-color: #008080 !important;
+    --submenu-shadow-color-opacity: 0.25 !important;
+    --button-shadow-color-normal: hsla(0, 0%, 42.4%, 0.2) !important;
+    --button-shadow-color-hover: hsla(0, 0%, 42.4%, 0.3) !important;
+    --table-background-color-odd: #fafafa !important;
+    --table-head-border-bottom: #e2e2e2 !important;
+    --toggle-darkmode-button-display-moon: block !important;
+    --toggle-darkmode-button-display-sun: none !important;
+    --toggle-darkmode-background-color: rgba(0, 0, 0, 0.05) !important;
+    --header-menu-gradient-first-color: hsla(0, 0%, 100%, 0) !important;
+    --header-menu-gradient-secound-color: #fff !important;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root[data-theme="dark"] {
+    --background-color: #111 !important;
+    --primary-foreground-color: #ccc !important;
+    --secondary-foreground-color: #fff !important;
+    --primary-subtle-color: #008080 !important;
+    --secondary-subtle-color: #141920 !important;
+    --titles-color: #ffffff !important;
+    --link-color: #008080 !important;
+    --border-color: #008080 !important;
+    --primary-border-color: #1d1d1d !important;
+    --secondary-border-color: #0f0f0f !important;
+    --article-shadow-normal: 0 4px 5px 5px rgba(0, 0, 0, 0.1) !important;
+    --article-shadow-hover: 0 4px 5px 10px rgba(0, 0, 0, 0.1) !important;
+    --transparent-background-color: rgba(0, 0, 0, 0.99) !important;
+    --footer-background-color: #008080 !important;
+    --submenu-shadow-color-opacity: 0.55 !important;
+    --button-shadow-color-normal: rgba(10, 10, 10, 0.5) !important;
+    --button-shadow-color-hover: rgba(10, 10, 10, 0.5) !important;
+    --table-background-color-odd: #050505 !important;
+    --table-head-border-bottom: #1d1d1d !important;
+    --toggle-darkmode-button-display-moon: none !important;
+    --toggle-darkmode-button-display-sun: block !important;
+    --toggle-darkmode-background-color: rgba(0, 0, 0, 0.5) !important;
+    --header-menu-gradient-first-color: rgba(17, 17, 17, 0) !important;
+    --header-menu-gradient-secound-color: rgba(17, 17, 17, 0.65) !important;
+  }
+}

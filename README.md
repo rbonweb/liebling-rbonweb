@@ -26,80 +26,80 @@ From now on, this theme is only compatible with Ghost 3
 
 ### General features
 
-* Clean and beautiful design 💅🏼
-* Lightning fast ⚡️
-* Fully responsive, looks great on any device 📱
-* Compatible with modern browsers 💻
-* Fast support 📞
+- Clean and beautiful design 💅🏼
+- Lightning fast ⚡️
+- Fully responsive, looks great on any device 📱
+- Compatible with modern browsers 💻
+- Fast support 📞
 
 ### Ghost features
 
-* Subscription form [more info here](https://github.com/eddiesigner/liebling/wiki/How-to-enable-subscribers)
-* Multiple authors
-* Logo support
-* Secondary menu
-* Featured posts and pages
-* Post, Page, Tag, Authors, pages
-* Koenig editor
-* Bookmark card
-* Gallery card
-* Blog title and description
-* Cover image for Home, Post, Page, Tag, Author pages
-* Author avatar, bio, location, website and social links
-* Facebook and Twitter social links
-* Reading time
-* Next and Previous post navigation
-* Primary tag in posts
+- Subscription form [more info here](https://github.com/eddiesigner/liebling/wiki/How-to-enable-subscribers)
+- Multiple authors
+- Logo support
+- Secondary menu
+- Featured posts and pages
+- Post, Page, Tag, Authors, pages
+- Koenig editor
+- Bookmark card
+- Gallery card
+- Blog title and description
+- Cover image for Home, Post, Page, Tag, Author pages
+- Author avatar, bio, location, website and social links
+- Facebook and Twitter social links
+- Reading time
+- Next and Previous post navigation
+- Primary tag in posts
 
 ### Liebling unique features
 
-* Dark mode
-* Search
-* Custom Subscribe page
-* Custom authors page
-* Custom error page
-* Medium style image zoom
-* Comments with Disqus
-* Share post on Facebook and Twitter
-* Slider for featured posts
-* Support for normal, wide and full images in posts
-* Reading progress indicator
-* RTL language support
+- Dark mode
+- Search
+- Custom Subscribe page
+- Custom authors page
+- Custom error page
+- Medium style image zoom
+- Comments with Disqus
+- Share post on Facebook and Twitter
+- Slider for featured posts
+- Support for normal, wide and full images in posts
+- Reading progress indicator
+- RTL language support
 
 ## Localization
 
-* English
-* Spanish
-* German by [D3473R](https://github.com/D3473R)
-* Informal german by [D3473R](https://github.com/D3473R)
-* Bulgarian by [clappingmonkey](https://github.com/clappingmonkey)
-* Vietnamese by [hiensarahly](https://github.com/hiensarahly)
-* Italian by [vignini](https://github.com/vignini)
-* French by [v1nc3nt-fr](https://github.com/v1nc3nt-fr)
-* Informal french by [v1nc3nt-fr](https://github.com/v1nc3nt-fr)
-* Portuguese by [ivomota](https://github.com/ivomota)
-* Arabic by [allamiro](https://github.com/allamiro)
-* Polish by [otlet](https://github.com/otlet)
-* Brazilian portuguese by [pedrinholula](https://github.com/pedrinholula)
-* Russian by [stereohorse](https://github.com/stereohorse)
-* Kyrgyz by [januchaos](https://github.com/januchaos)
-* Hebrew by [cohen604](https://github.com/cohen604)
-* Turkish by [mskoroglu](https://github.com/mskoroglu)
-* Romanian by [dsecareanu](https://github.com/dsecareanu)
-* Chinese Simplified by [IvyB](https://github.com/IvyB)
-* Indonesian by [iqbalbinsb](https://github.com/iqbalbinsb)
-* Lithuanian by [pintom](https://github.com/pintom)
-* Dutch by [Qballjos](https://github.com/Qballjos)
-* Traditional Chinese by [weixiang](https://github.com/weixiang)
-* Persian (Farsi) by [Aminoiz](https://github.com/Aminoiz)
+- English
+- Spanish
+- German by [D3473R](https://github.com/D3473R)
+- Informal german by [D3473R](https://github.com/D3473R)
+- Bulgarian by [clappingmonkey](https://github.com/clappingmonkey)
+- Vietnamese by [hiensarahly](https://github.com/hiensarahly)
+- Italian by [vignini](https://github.com/vignini)
+- French by [v1nc3nt-fr](https://github.com/v1nc3nt-fr)
+- Informal french by [v1nc3nt-fr](https://github.com/v1nc3nt-fr)
+- Portuguese by [ivomota](https://github.com/ivomota)
+- Arabic by [allamiro](https://github.com/allamiro)
+- Polish by [otlet](https://github.com/otlet)
+- Brazilian portuguese by [pedrinholula](https://github.com/pedrinholula)
+- Russian by [stereohorse](https://github.com/stereohorse)
+- Kyrgyz by [januchaos](https://github.com/januchaos)
+- Hebrew by [cohen604](https://github.com/cohen604)
+- Turkish by [mskoroglu](https://github.com/mskoroglu)
+- Romanian by [dsecareanu](https://github.com/dsecareanu)
+- Chinese Simplified by [IvyB](https://github.com/IvyB)
+- Indonesian by [iqbalbinsb](https://github.com/iqbalbinsb)
+- Lithuanian by [pintom](https://github.com/pintom)
+- Dutch by [Qballjos](https://github.com/Qballjos)
+- Traditional Chinese by [weixiang](https://github.com/weixiang)
+- Persian (Farsi) by [Aminoiz](https://github.com/Aminoiz)
 
 ## Tests performed
 
-* W3C Markup Validation: [Correct validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fliebling.eduardogomez.io%2F)
-* Ghost GScan: [100/100 points](https://gscan.ghost.org/)
-* GTmetrix PageSpeed Score: **A (97%)**
-* PageSpeed Insights: **94/100** (mobile) **99/100** (desktop)
-* Pingdom Performance Grade: **A 91**
+- W3C Markup Validation: [Correct validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fliebling.eduardogomez.io%2F)
+- Ghost GScan: [100/100 points](https://gscan.ghost.org/)
+- GTmetrix PageSpeed Score: **A (97%)**
+- PageSpeed Insights: **94/100** (mobile) **99/100** (desktop)
+- Pingdom Performance Grade: **A 91**
 
 ## Theme development
 
@@ -117,7 +117,7 @@ Contributions are very welcome. First, please read the [Pull Request Guidelines]
 
 ## Related
 
-* [Weiss Pro](https://blog.eduardogomez.io/weiss-pro-modern-and-clean-ghost-theme/) - Modern and beautiful Ghost theme ready to make your content shine ✨
+- [Weiss Pro](https://blog.eduardogomez.io/weiss-pro-modern-and-clean-ghost-theme/) - Modern and beautiful Ghost theme ready to make your content shine ✨
 
 ## License
 
