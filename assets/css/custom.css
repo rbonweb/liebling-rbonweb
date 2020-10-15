@@ -40,3 +40,8 @@ body {
   height: 28px;
   font-size: 1.2rem;
 }
+
+.l-post-content.kg-image-card figcaption,
+.l-post-content figure figcaption {
+  padding: 0;
+}
