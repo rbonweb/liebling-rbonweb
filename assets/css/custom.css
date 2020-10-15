@@ -45,3 +45,14 @@ body {
 .l-post-content figure figcaption {
   padding: 0;
 }
+
+code {
+  text-shadow: none !important;
+}
+.token.operator {
+  background: none !important;
+}
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  background: #20262e !important;
+}
